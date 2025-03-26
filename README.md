@@ -30,7 +30,6 @@ To develop a **robust AI-driven framework** that aids in **real-time detection a
 ### 🛠 Built With  
 
 - **Python** (NumPy, SciPy, h5py, TensorFlow/PyTorch)  
-- **Jupyter Notebooks** for interactive data analysis  
 - **Matplotlib & Seaborn** for visualization  
 - **Librosa & Signal Processing Techniques**  
 
